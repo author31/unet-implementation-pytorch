@@ -3,7 +3,7 @@ This repo is using Unet architecture to do semantic segmentation: [Unet](https:/
 
 The dataset for training is [Pascal Voc](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#voc2012vs2011)
 
-The customized dataset is included in this repo 
+The customized dataset is included in this repo [dataset](https://drive.google.com/open?id=1YCjecwqCUe9h7pIAvlxGtwmKCExJ2LUv]
 
 ## The customized unet architecture
 In the encoder part I used Resnet18 to do the convolutional task and the rest is as same as the original Unet papers 
